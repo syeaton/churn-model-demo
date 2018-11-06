@@ -6,7 +6,7 @@ jobs:
     name: build-churn-model
     entrypoint: "build-churn-model.py"
 
-  - job id: 81114667-544d-4163-a8dd-d56fe86186c9
+  - job_id: 81114667-544d-4163-a8dd-d56fe86186c9
     language: python
     name: score-new-users
     entrypoint: "score-new-users.py"
