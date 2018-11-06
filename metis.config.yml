@@ -10,4 +10,4 @@ jobs:
     language: python
     name: score-new-users
     entrypoint: "score-new-users.py"
-    dependencies: f5e1381a-626e-4956-9221-2da0bde888f7
+    dependencies: ["f5e1381a-626e-4956-9221-2da0bde888f7"]
